@@ -21,9 +21,6 @@ The company needs to analyze user traffic behavior (pageviews, sessions, bounce 
   - Identify user behaviour patterns and bounce points
   - Visualize conversion funnels using Power BI
   - Segment users by device, source, or region
-  - Recommend improvements in landing pages and UX
-  - Submit a final strategic report with data-backed insights
-The company needs to analyze user traffic behavior (pageviews, sessions, bounce rates, user flow, and device types) to identify where users are dropping off, uncover funnel breakpoints, and recommend UX and marketing improvements that can boost conversion rates.
 
 ****************************************************************************************************************************************************************************************************************
 ## 🛠️ TOOLS & TECHNOLOGIES USED : 
@@ -77,6 +74,7 @@ The company needs to analyze user traffic behavior (pageviews, sessions, bounce 
 ✔️ Built pivot tables and cross-verified SQL vs Power BI outputs for accuracy
 
 ✔️ Ensured data consistency across tools
+
    ****************************************************************************************************************************************************************************************************************
    
 
@@ -90,7 +88,6 @@ The company needs to analyze user traffic behavior (pageviews, sessions, bounce 
    - Funnel Chart (Vertical Bar Chart): Displayed drop-offs at each stage of the purchase journey
 
     
-   ****************************************************************************************************************************************************************************************************************
    
    <img width="600" height="400" alt="funnel_counts_nb" src="https://github.com/user-attachments/assets/6e4c50c8-bb8c-4c6a-92ae-98da364a1851" />
 
@@ -98,22 +95,20 @@ The company needs to analyze user traffic behavior (pageviews, sessions, bounce 
    
         
   - Top 10 Items by Revenue (Horizontal Bar Chart): Ranked products by total revenue contribution
-   ****************************************************************************************************************************************************************************************************************
-                    
+                   
    <img width="1000" height="600" alt="top_items_by_revenue" src="https://github.com/user-attachments/assets/297ae6ad-0cdf-4637-ad4d-9bed8425f5b9" />
 
 ****************************************************************************************************************************************************************************************************************
    
         
   - Conversion Rate by Device (Vertical Bar Chart): Compared conversion performance across desktop, mobile, and tablet segments
-   ****************************************************************************************************************************************************************************************************************
-   
+ 
    <img width="800" height="500" alt="conversion_rate_by_device" src="https://github.com/user-attachments/assets/1925b221-dd0e-46cc-9e0e-d5ca89a1c7a2" />
         
 ****************************************************************************************************************************************************************************************************************
    
 
-## 🛢️ uSER SEGMENTATION ANALYSIS (SQL) :
+## 🛢️ USER SEGMENTATION ANALYSIS (SQL) :
 
 ✔️ Analyzed user segmentation, funnel drop-offs, and bounce patterns to uncover mobile conversion gaps.
    - User Segmentation
@@ -130,13 +125,13 @@ The company needs to analyze user traffic behavior (pageviews, sessions, bounce 
 
 ✔️ Built a dynamic dashboard titled “Funnel & User Flow Dashboard” to track key performance metrics:
 
-   ➡️ Users: 36491M
+  -  ➡️ Users: 36491M
   
-   ➡️ Sessions: 18K
+  -  ➡️ Sessions: 18K
   
-   ➡️ Events: 754K
+  -  ➡️ Events: 754K
   
-   ➡️ Conversions: 17.9K
+  -  ➡️ Conversions: 17.9K
 
       
 ✔️ Visualized conversion rate, bounce rate, funnel flow, and user journey using donut, Horizontal bar, funnel, and vertical bar charts.
