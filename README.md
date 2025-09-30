@@ -51,19 +51,31 @@ This project analyzes e-commerce website data to understand user behavior, traff
 
   ✔️ Visualizations :
 
-   - Funnel Chart (Vertical Bar Chart): Displayed drop-offs at each stage of the purchase journey
-        <img width="600" height="400" alt="funnel_counts_nb" src="https://github.com/user-attachments/assets/6e4c50c8-bb8c-4c6a-92ae-98da364a1851" />
+   Funnel Chart (Vertical Bar Chart): Displayed drop-offs at each stage of the purchase journey
 
+    
+   ****************************************************************************************************************************************************************************************************************
+   
+   <img width="600" height="400" alt="funnel_counts_nb" src="https://github.com/user-attachments/assets/6e4c50c8-bb8c-4c6a-92ae-98da364a1851" />
 
+   ****************************************************************************************************************************************************************************************************************
+   
         
-   - Top 10 Items by Revenue (Horizontal Bar Chart): Ranked products by total revenue contribution
-        <img width="1000" height="600" alt="top_items_by_revenue" src="https://github.com/user-attachments/assets/297ae6ad-0cdf-4637-ad4d-9bed8425f5b9" />
+   Top 10 Items by Revenue (Horizontal Bar Chart): Ranked products by total revenue contribution
+           **************************************************************************************************************************************************************************************************************
+   
+   <img width="1000" height="600" alt="top_items_by_revenue" src="https://github.com/user-attachments/assets/297ae6ad-0cdf-4637-ad4d-9bed8425f5b9" />
 
-
+****************************************************************************************************************************************************************************************************************
+   
         
-   - Conversion Rate by Device (Vertical Bar Chart): Compared conversion performance across desktop, mobile, and tablet segments
-        <img width="800" height="500" alt="conversion_rate_by_device" src="https://github.com/user-attachments/assets/1925b221-dd0e-46cc-9e0e-d5ca89a1c7a2" />
-
+   Conversion Rate by Device (Vertical Bar Chart): Compared conversion performance across desktop, mobile, and tablet segments
+     ****************************************************************************************************************************************************************************************************************
+   
+   <img width="800" height="500" alt="conversion_rate_by_device" src="https://github.com/user-attachments/assets/1925b221-dd0e-46cc-9e0e-d5ca89a1c7a2" />
+        
+****************************************************************************************************************************************************************************************************************
+   
 
 ### 🛢️ SQL :
 
@@ -85,17 +97,20 @@ This project analyzes e-commerce website data to understand user behavior, traff
   
   ➡️ Conversions: 17.9K
 
-  
+      
+  ✔️ Visualized conversion rate, bounce rate, funnel flow, and user journey using donut, Horizontal bar, funnel, and vertical bar charts.
+
+****************************************************************************************************************************************************************************************************************
     
  <img width="1275" height="720" alt="Screenshot 2025-09-30 223507" src="https://github.com/user-attachments/assets/314e4135-2bd6-46e6-bf88-04a3fee3cb38" />
 
 
+****************************************************************************************************************************************************************************************************************
+   
 
 
 
-
-     
-  ✔️ Visualized conversion rate, bounce rate, funnel flow, and user journey using donut, Horizontal bar, funnel, and vertical bar charts.
+ 
 
   
 
