@@ -1,38 +1,46 @@
 # 📘 Website Analytics and Conversion Rate Optimization
 
-## 📖 PROJECT OVERVIEW :- 
+## 📖 PROJECT OVERVIEW  
 
 This project analyzes e-commerce website data to understand user behavior, traffic sources, and purchase patterns. Used SQL, Power BI, Excel and Python to provide insights that improve conversion rates and business decision making.
 
 
-## 📂 DATASET OVERVIEW :- 
+## 📂 DATASET OVERVIEW
 
 **1. Users Table :** [users.csv](https://github.com/user-attachments/files/22623244/users.csv)
-      - Purpose: Stores information about website visitors.
+      
+    - Purpose: Stores information about website visitors.
 
 **2. Sessions Table :** [sessions.csv](https://github.com/user-attachments/files/22623301/sessions.csv)
-      - Purpose: Tracks user visits (sessions) to the website.
+
+    - Purpose: Tracks user visits (sessions) to the website.
 
 **3. Events Table :** [events1.xlsx](https://github.com/user-attachments/files/22623549/events1.xlsx)
-      - Purpose: Stores user actions during sessions.
+
+    - Purpose: Stores user actions during sessions.
 
 **4. Items Table :** [items.csv](https://github.com/user-attachments/files/22623363/items.csv)
-      - Purpose: Contains product catalog details.
+     
+    - Purpose: Contains product catalog details.
 
 
-## 🛠️ TOOLS & TECHNOLOGIES USED :-
+## 🛠️ TOOLS & TECHNOLOGIES USED 
+
 
 #### 📜 Excel :
 
-✔️ Used Power Query for data cleaning, validation, and type checks to ensure data integrity.
-✔️ Built pivot tables and cross-verified SQL vs Power BI outputs for funnel accuracy and consistency.
+  ✔️ Used Power Query for data cleaning, validation, and type checks to ensure data integrity.
+
+  ✔️ Built pivot tables and cross-verified SQL vs Power BI outputs for funnel accuracy and consistency.
 
 
 
 #### 🐍 Python :
 
-✔️ Analyzed session-level event data in Python to measure user behavior, segment by device and traffic source, and model funnel stages—revealing bounce rate, session revenue, and key drop-offs in conversion performance
-✔️ Visualizations :
+  ✔️ Analyzed session-level event data in Python to measure user behavior, segment by device and traffic source, and model funnel stages—revealing bounce rate, session revenue, and key drop-offs in conversion performance
+
+
+  ✔️ Visualizations :
 
    - Funnel Chart (Vertical Bar Chart): Displayed drop-offs at each stage of the purchase journey
         <img width="600" height="400" alt="funnel_counts_nb" src="https://github.com/user-attachments/assets/6e4c50c8-bb8c-4c6a-92ae-98da364a1851" />
@@ -46,30 +54,35 @@ This project analyzes e-commerce website data to understand user behavior, traff
 
 #### 🛢️ SQL :
 
-✔️ Analyzed user segmentation, funnel drop-offs, and bounce patterns to uncover mobile conversion gaps and regional UX issues.
-✔️ Identified loyal desktop users driving session revenue and high-LTV behaviors through funnel and session-level metrics.
+  ✔️ Analyzed user segmentation, funnel drop-offs, and bounce patterns to uncover mobile conversion gaps.
+  
+  ✔️ Identified loyal desktop users driving session revenue and high-LTV behaviors through funnel and session-level metrics.
 
 
 
 #### 📊 Power BI :
 
-✔️ Built a dynamic dashboard titled “Funnel & User Flow Dashboard” to track key performance metrics:
+  ✔️ Built a dynamic dashboard titled “Funnel & User Flow Dashboard” to track key performance metrics:
 
-➡️ Users: 36491M
-➡️ Sessions: 18K
-➡️ Events: 754K
-➡️ Conversions: 17.9K
+  ➡️ Users: 36491M
+  
+  ➡️ Sessions: 18K
+  
+  ➡️ Events: 754K
+  
+  ➡️ Conversions: 17.9K
     
  <img width="1275" height="720" alt="Screenshot 2025-09-30 223507" src="https://github.com/user-attachments/assets/314e4135-2bd6-46e6-bf88-04a3fee3cb38" />
 
 
 
+
      
-✔️ Visualized conversion rate, bounce rate, funnel flow, and user journey using donut, Horizontal bar, funnel, and vertical bar charts.
+  ✔️ Visualized conversion rate, bounce rate, funnel flow, and user journey using donut, Horizontal bar, funnel, and vertical bar charts.
 
   
 
-## ⚡ PROJECT FLOW & STRUCTURE :-
+## ⚡ PROJECT FLOW & STRUCTURE 
 
 
      📁Website_Analytics_and_Conversion_Rate_Optimization/
