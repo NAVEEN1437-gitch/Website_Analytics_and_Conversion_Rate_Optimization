@@ -3,10 +3,41 @@
    
 ## 📖 PROJECT OVERVIEW  
 ****************************************************************************************************************************************************************************************************************
-   
-This project analyzes e-commerce website data to understand user behavior, traffic sources, and purchase patterns. Used SQL, Power BI, Excel and Python to provide insights that improve conversion rates and business decision making.
+This project analyzes e-commerce website data to understand user behavior, traffic sources, and purchase patterns. Using SQL, Power BI, Excel, and Python, the goal is to uncover drop-offs in the conversion funnel and provide data-driven recommendations to improve conversion rates and support business decision-making.
+****************************************************************************************************************************************************************************************************************
 
+## 📝 PROBLEM STSTEMENT
 
+ClickWave, a mid-sized e-commerce company, is experiencing high website traffic but low conversions. Despite attracting visitors, the conversion funnel is underperforming due to:
+
+- 📉 High bounce rates on product pages
+
+- 🛒 Poor user experience during checkout
+
+- 🎯 Traffic sources misaligned with user intent
+  
+The company needs to analyze user traffic behavior (pageviews, sessions, bounce rates, user flow, and device types) to:
+  - Explore and clean the website traffic dataset
+  - Identify user behaviour patterns and bounce points
+  - Visualize conversion funnels using Power BI
+  - Segment users by device, source, or region
+  - Recommend improvements in landing pages and UX
+  - Submit a final strategic report with data-backed insights
+The company needs to analyze user traffic behavior (pageviews, sessions, bounce rates, user flow, and device types) to identify where users are dropping off, uncover funnel breakpoints, and recommend UX and marketing improvements that can boost conversion rates.
+
+****************************************************************************************************************************************************************************************************************
+## 🛠️ TOOLS & TECHNOLOGIES USED : 
+         
+   - Excel → (Performed Data Cleaning, Data Validation and Checked Data Integrity)
+     
+   - Python → (Analyzed User behavior, Bounce Rate, Funnel Count, Session Revenue and Drop-offs in Conversion)
+     
+   - SQL → (Analyzed user segmentation, funnel drop-offs, and bounce patterns to uncover mobile conversion gaps)
+     
+   - Power BI → ( Interactive dashboards for funnel visualization, user flow, and KPI tracking)
+     
+****************************************************************************************************************************************************************************************************************
+    
 ## 📂 DATASET OVERVIEW
 ****************************************************************************************************************************************************************************************************************
    
@@ -36,20 +67,20 @@ This project analyzes e-commerce website data to understand user behavior, traff
      
 
 
-## 🛠️ TOOLS & TECHNOLOGIES USED 
+****************************************************************************************************************************************************************************************************************
+   
+
+## 📜 DATA PREPARATION - EDA (EXCEL) :
+
+✔️ Used Power Query for cleaning, validation, and type checks
+
+✔️ Built pivot tables and cross-verified SQL vs Power BI outputs for accuracy
+
+✔️ Ensured data consistency across tools
    ****************************************************************************************************************************************************************************************************************
    
 
-### 📜 Excel :
-
-✔️ Used Power Query for data cleaning, validation, and type checks to ensure data integrity.
-
-✔️ Built pivot tables and cross-verified SQL vs Power BI outputs for funnel accuracy and consistency.
-
-   ****************************************************************************************************************************************************************************************************************
-   
-
-### 🐍 Python :
+## 🐍 FUNNEL ANALYTICS (PYTHON) :
 
 ✔️ Analyzed session-level event data in Python to measure user behavior, segment by device and traffic source, and model funnel stages—revealing bounce rate, session revenue, and key drop-offs in conversion performance
 
@@ -82,7 +113,7 @@ This project analyzes e-commerce website data to understand user behavior, traff
 ****************************************************************************************************************************************************************************************************************
    
 
-### 🛢️ SQL :
+## 🛢️ uSER SEGMENTATION ANALYSIS (SQL) :
 
 ✔️ Analyzed user segmentation, funnel drop-offs, and bounce patterns to uncover mobile conversion gaps.
    - User Segmentation
@@ -95,7 +126,7 @@ This project analyzes e-commerce website data to understand user behavior, traff
 ****************************************************************************************************************************************************************************************************************
    
 
-### 📊 Power BI :
+## 📊 DASHBOARD DESIGN (Power BI) :
 
 ✔️ Built a dynamic dashboard titled “Funnel & User Flow Dashboard” to track key performance metrics:
 
